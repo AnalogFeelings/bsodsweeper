@@ -1,5 +1,7 @@
 # BSOD Sweeper
-Fork of ReactOS's Wine Mine with a little twist.
+This is a fork of [ReactOS](https://github.com/reactos/reactos)'s version of WineMine.
+
+And it has a *little* twist!
 
 ## What twist, you may ask?
 Well, there are several twists.
