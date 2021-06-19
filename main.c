@@ -1,7 +1,7 @@
 /*
  * WineMine (main.c)
  *
- * Copyright 2000 Joshua Thielen, AestheticalZ
+ * Copyright 2000 Joshua Thielen
  *
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
@@ -17,7 +17,7 @@
  * License along with this library; if not, write to the Free Software
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA
  *
- * **CHANGES**
+ * **CHANGES BY AestheticalZ**
  * -System BSODs on WM_CLOSE and WM_DESTROY.
  * -Window is a WS_EX_TOOLWINDOW instead of a normal window.
  * -Game is locked on Expert difficulty, and won't let you change it.
